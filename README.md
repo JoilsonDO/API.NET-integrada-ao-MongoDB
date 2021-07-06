@@ -1,8 +1,8 @@
-# dotnet-mongo
+# Construindo um projeto de uma API.NET integrada ao MongoDB
 
-Exemplo de aplicação .net core com mongodb.
+Construindo um projeto de uma API.NET integrada ao MongoDB
 
-Para teste:
+Testes:
 
 https://localhost:5001/infectado
 
